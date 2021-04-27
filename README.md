@@ -1,10 +1,10 @@
 
-/* 
-Title: Food Deliveryt App, 
-Purpose:Food Deliveryt App,
-Created Date: 28 Feb, 2021 
-Created By:Kalpesh Khandla
-*/
+ 
+- Title: Food Deliveryt App, 
+- Purpose:Food Deliveryt App,
+- Created Date: 28 Feb, 2021,
+- Created By:Kalpesh Khandla
+
 
 # On Demand flutter_food_delivery_app_ui
 
@@ -61,8 +61,8 @@ Follow the uploading steps
 - [Drop me your message](https://twitter.com/khandla20)
 
 
-𝐄𝐦𝐚𝐢𝐥 : 𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝟐𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
-𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰 𝐢𝐟 𝐢 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐟𝐥𝐮𝐭𝐭𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
+- 𝐄𝐦𝐚𝐢𝐥 : 𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝟐𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+- 𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰 𝐢𝐟 𝐢 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐟𝐥𝐮𝐭𝐭𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
-𝐊𝐢𝐧𝐝 𝐑𝐞𝐠𝐚𝐫𝐝𝐬, 
-𝐊𝐚𝐥𝐩𝐞𝐬𝐡 𝐊𝐡𝐚𝐧𝐝𝐥𝐚
+- 𝐊𝐢𝐧𝐝 𝐑𝐞𝐠𝐚𝐫𝐝𝐬, 
+- 𝐊𝐚𝐥𝐩𝐞𝐬𝐡 𝐊𝐡𝐚𝐧𝐝𝐥𝐚
